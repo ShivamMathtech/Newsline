@@ -1,0 +1,23 @@
+NEWSLINE — READY TO RUN
+
+1. Install Node.js 24.x from https://nodejs.org/
+2. Extract the entire ZIP.
+3. Double-click START-WINDOWS.cmd.
+4. Open http://127.0.0.1:3000 if your browser does not open.
+5. Sign in using the Reader, Editor or Admin demo buttons.
+
+All demo accounts use: Newsline@123
+Reader: demo@newsline.local
+Editor: editor@newsline.local
+Admin: admin@newsline.local
+
+No npm installation is needed for the included build.
+Keep the terminal window open while using Newsline.
+
+Full source: src/ and server/
+Ready-to-run frontend: dist/
+Setup and feature guide: README.md
+Troubleshooting: docs/WINDOWS-SETUP.md
+
+The included stories/publishers are fictional sample content.
+Live news feeds and external email delivery are not configured.
